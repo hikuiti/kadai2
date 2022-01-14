@@ -49,3 +49,10 @@ $ rostopic echo clock.py
 
 にて、commaは一秒未満、secondは秒、clockは分を見ることができます。
 
+# 動画
+https://youtu.be/7IuY36KDmbM
+
+yoububeに動画を上げてあります。
+
+# ライセンス
+
