@@ -55,4 +55,6 @@ https://youtu.be/7IuY36KDmbM
 yoububeに動画を上げてあります。
 
 # ライセンス
-[BSD 3-Clause "New" or "Revised" License]https://github.com/hikuiti/kadai2/blob/main/LICENSE
+[BSD 3-Clause "New" or "Revised" License]
+
+https://github.com/hikuiti/kadai2/blob/main/LICENSE
