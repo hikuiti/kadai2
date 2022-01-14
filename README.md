@@ -9,7 +9,7 @@
 # 必要な物
 Raspberry Pi 4 Model B 
 
-os;Ubuntu 18.04 LTS
+OS:Ubuntu 18.04 LTS
 
 ROS環境
 
